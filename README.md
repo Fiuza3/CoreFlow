@@ -1,3 +1,4 @@
+# CoreFlow
 # Sistema ERP Vue.js
 
 Sistema de Gestão Empresarial (ERP) desenvolvido com Vue 3, TypeScript e Vite.
